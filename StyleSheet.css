@@ -1,0 +1,19 @@
+    h1{
+        color:#28ff3a;
+    }
+    *{
+        color: #930011;
+        border:solid;
+    }
+    .john{
+        background-color: #4399ff;
+        display: flex;
+        justify-content: space-around;
+        font-style: italic;
+        font-family: cursive;
+    }
+    body{
+        background-color: #f0ff0f;
+        background-image: url("ali.jpg");
+        background-size: 8cm;
+    }
